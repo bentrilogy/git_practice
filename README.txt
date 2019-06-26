@@ -1,6 +1,10 @@
 Hello Git and Github
 NEW LINE NEW LINE NEW LINE
 
+<<<<<<< HEAD
 WOWZA
 
 
+=======
+NEW BRANCH TESTING WOOT YEAH WOOT
+>>>>>>> 7c0696ce218df1c0873046e7078fd3ab63a69869
